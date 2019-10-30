@@ -85,7 +85,25 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
-  }
+  },
+{
+  title: "Star Wars, nothing but Star Wars",
+  date: "Time Unknown, but in a Galaxy far far away",
+  firstParagraph: "It looks like Sandpeople did this, all right. Look, here are Gaffi sticks, Bantha tracks. It's just...I never heard of them hitting anything this big before. They didn't. But we are meant to think they did. These tracks are side by side. Sandpeople always ride single file to hide there numbers. These are the same Jawas that sold us Artoo and Threepio. And these blast points, too accurate for Sandpeople. Only Imperial stormtroopers are so precise. Why would Imperial troops want to slaughter Jawas? If they traced the robots here, they may have learned who they sold them to. And that would lead them home! Wait, Luke! It's too dangerous. Uncle Owen! Aunt Beru! Uncle Owen!",
+
+  secondParagraph: "Well, the Force is what gives a Jedi his power. It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together. Now, let's see if we can't figure out what you are, my little friend. And where you come from. I saw part of the message he was... I seem to have found it.",
+
+  thirdParagraph: "Hey...hey, open the pressure maintenance hatch on unit number... where are we? Three-two-six-eight-two-seven. If we can just avoid any more female advice, we ought to be able to get out of here. Well, let's get moving! Where are you going? No, wait. They'll hear! Come here, you big coward! Chewie! Come here! Listen. I don't know who you are, or where you came from, but from now on, you do as I tell you. Okay? Look, Your Worshipfulness, let's get one thing straight! I take orders from one person! Me! It's a wonder you're still alive. Will somebody get this big walking carpet out of my way? No reward is worth this."
+},
+{
+  title: "These are the voyages of the starship Enterprise",
+  date: "In the Future",
+  firstParagraph: "Run a manual sweep of anomalous airborne or electromagnetic readings. Radiation levels in our atmosphere have increased by 3,000 percent. Electromagnetic and subspace wave fronts approaching synchronization. What is the strength of the ship's deflector shields at maximum output? The wormhole's size and short period would make this a local phenomenon. Do you have sufficient data to compile a holographic simulation?",
+
+  secondParagraph: "Shields up. I recommend we transfer power to phasers and arm the photon torpedoes. Something strange on the detector circuit. The weapons must have disrupted our communicators. You saw something as tasty as meat, but inorganically materialized out of patterns used by our transporters. Captain, the most elementary and valuable statement in science, the beginning of wisdom, is 'I do not know.' All transporters off.",
+  
+  thirdParagraph: "Sensors indicate human life forms 30 meters below the planet's surface. Stellar flares are increasing in magnitude and frequency. Set course for Rhomboid Dronegar 006, warp seven. There's no evidence of an advanced communication network. Total guidance system failure, with less than 24 hours' reserve power. Shield effectiveness has been reduced 12 percent. We have covered the area in a spherical pattern which a ship without warp drive could cross in the given time."
+}
 ];
 
 /* Step 1: Create a function that creates a component. You will want your component to look like the template below: 
